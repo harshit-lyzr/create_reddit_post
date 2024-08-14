@@ -1,0 +1,4 @@
+praw
+fastapi
+uvicorn
+python-dotenv
